@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Boikanyego!
 
-<!--
-**BKGitRepo/BKGitRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Final Year Bachelor Of Computing Student
 
-Here are some ideas to get you started:
+📍 **South Africa**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/boikanyego-hlalethwa-09485a319/ 
+👨‍💻 **GitHub:** https://github.com/BKGitRepo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, R, C#
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+- **Tools:** AWS, Git
+
+
+### Education 🎓
+- **Bachelor of Computing**, Belgium Campus iTversity
+
+
+🔗 Let's ideate, innovate, and build cool expericnes with Data. Reach out for collaborations or simply to chat!
